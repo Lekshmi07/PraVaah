@@ -1,0 +1,4 @@
+#Thu Sep 20 12:54:15 IST 2018
+base.0=C\:\\Users\\Lekshmi\\Desktop\\PraVaah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
